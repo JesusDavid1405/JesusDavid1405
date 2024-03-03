@@ -18,7 +18,7 @@ Soy un programador de software altamente motivado y apasionado por la creación 
 +  **Ingles:** A2 (En proceso de aprendizaje)
 
 ## Estudios y certificaciones
-+ **Bachiller** <sub>Instutucion Educativa Promocion Social</sub>
++ **Bachiller** <sub>Instutucion Educativa Promocion Social (Palermo-Huila)</sub>
 + **Tecnico en Analizis y Desarrollo de Software**<sub>Sena ADSO</sub>
 
 ## Estudios en proceso
