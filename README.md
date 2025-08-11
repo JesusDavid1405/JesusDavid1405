@@ -28,7 +28,7 @@ Soy un programador de software altamente motivado y apasionado por la creación 
 + **Direccion:** <a href="https://es.wikipedia.org/wiki/Neiva">Neiva-Huila</a>
 + **Telefono:** +57 3172857026
 + **Correo:** jesusdavidfierrorivera817@gmail.com
-+ **Linkedin** <a href="https://www.linkedin.com/in/jesus-david-fierro-rivera-1226bb318?utm_source=share&utm_campaing=share"></a>
++ **Linkedin** <a href="https://www.linkedin.com/in/jesus-david-fierro-rivera-1226bb318?utm_source=share&utm_campaing=share">jesus david fierro rivera</a>
 
 
 
