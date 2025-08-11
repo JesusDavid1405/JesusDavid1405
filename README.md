@@ -6,12 +6,11 @@ Soy un programador de software altamente motivado y apasionado por la creación 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](programacion.jpg)
 
 ## Destrezas
-- [X] Pseudocodigo
-- [x] HTML
-- [X] CSS
-- [X] JavaScript
-- [X] Pythom
-- [ ] Base de Datos (En proceso de aprendizaje)
+- [X] Desarrollo Web
+- [x] Aplicativos Mobiles
+- [X] Backend (Java, CSharp)
+- [X] Framework (Angular, React Native)
+- [X] Base de Datos
       
 ## Idiomas
 +  **Español:** lengua natal 
@@ -19,7 +18,7 @@ Soy un programador de software altamente motivado y apasionado por la creación 
 
 ## Estudios y certificaciones
 + **Bachiller** <sub>Instutucion Educativa Promocion Social (Palermo-Huila)</sub>
-+ **Tecnico en Analizis y Desarrollo de Software**<sub>Sena ADSO</sub>
++ **Tecnico en Analizis y Desarrollo de Software** <sub>Sena ADSO</sub>
 
 ## Estudios en proceso
 + **Tecnologo en Analisis y Desarrollo de Software**<sub>Sena ADSO</sub>
@@ -29,6 +28,7 @@ Soy un programador de software altamente motivado y apasionado por la creación 
 + **Direccion:** <a href="https://es.wikipedia.org/wiki/Neiva">Neiva-Huila</a>
 + **Telefono:** +57 3172857026
 + **Correo:** jesusdavidfierrorivera817@gmail.com
++ **Linkedin** <a href="https://www.linkedin.com/in/jesus-david-fierro-rivera-1226bb318?utm_source=share&utm_campaing=share"></a>
 
 
 
