@@ -22,7 +22,7 @@ Soy un programador de software altamente motivado y apasionado por la creación 
 + **Tecnico en Analizis y Desarrollo de Software**<sub>Sena ADSO</sub>
 
 ## Estudios en proceso
-+ **Tegnologo en Analizis y Desarrollo de Software**<sub>Sena ADSO</sub>
++ **Tecnologo en Analisis y Desarrollo de Software**<sub>Sena ADSO</sub>
 
 ## Detalles Personales
 + **Nombre:** Jesus David Fierro Rivera
